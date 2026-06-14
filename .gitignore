@@ -1,0 +1,13 @@
+# Model files - keep local
+*.pkl
+
+# Uploaded files
+uploaded_files/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
